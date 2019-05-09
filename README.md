@@ -7,8 +7,6 @@ This test consists of two parts:
 2 - Once the console program has been written, create a Vaadin Flow project to implement a web GUI. Implement the following use case:
 If the user is selecting a portion of the original text, highlight the corresponding cleaned text.
 
-- Input text: <html>Html tag here</html><p>and awesome paragraph without  space  space words cleaned</p>
-- Output Text: Html tag here and awesome paragraph without space words cleaned
 
 To run the project, run `mvn jetty:run` and open [http://localhost:8080](http://localhost:8080) in browser.
 
